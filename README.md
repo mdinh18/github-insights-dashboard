@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 ## Live Demo
 
-Click here{https://github-insights-dashboard-sigma.vercel.app/}
+[Click here](https://github-insights-dashboard-sigma.vercel.app/)
 
 ## React Compiler
 
